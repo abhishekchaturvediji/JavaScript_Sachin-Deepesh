@@ -48,17 +48,25 @@
 // var , let , const 
 // var => es4 <-, let => ->es5, const
 
-const a = 13;
+const a = 3;
 // console.log(a);
 
-// Conditional Staments =>
+// Operators
+// = Assignment Operator, (== , ===) = Comparison Opearator
 
-//--- Control Flow Statements()
-// entryPoint , exitPoint
+// + , - , -- , ++ , == , === , >=, <= , && , || , ! (not) , != 
 
+// Conditional Staments =>-----
+// ya to ye vrna wo
+// ----------------------
+// dubbe ke ander condition
+
+// if(a > 10) console.log("You are eligible for Masturbation")
+// else if ( a < 10) console.log("go and sleep");
+// else console.log("You Go and Sleep Quietly")
 // ternary---
-// agar a , teen se bada hai to ? ke baad wali nhi to : ke baad wali
-a > 3 ? console.log("hello") : console.log("nhi h")
 
-// if(a > 3) console.log("hello");
-// else console.log("nhi h")
+
+
+
+
